@@ -1,6 +1,0 @@
-/Users/arashkevich/projects/flippico/notifica-sdk/target/debug/deps/zerofrom_derive-1aac16366fbea260.d: /Users/arashkevich/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerofrom-derive-0.1.6/src/lib.rs /Users/arashkevich/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerofrom-derive-0.1.6/src/visitor.rs
-
-/Users/arashkevich/projects/flippico/notifica-sdk/target/debug/deps/libzerofrom_derive-1aac16366fbea260.dylib: /Users/arashkevich/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerofrom-derive-0.1.6/src/lib.rs /Users/arashkevich/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerofrom-derive-0.1.6/src/visitor.rs
-
-/Users/arashkevich/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerofrom-derive-0.1.6/src/lib.rs:
-/Users/arashkevich/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerofrom-derive-0.1.6/src/visitor.rs:
