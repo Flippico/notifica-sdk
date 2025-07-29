@@ -21,6 +21,7 @@ pub struct NotificaBodyEmail {
 pub struct NotificaBody {
     pub push: Option<HashMap<String, String>>,
     pub email: Option<NotificaBodyEmail>,
+    pub request: Option<HashMap<String, String>>,
 }
 
 impl Notifica {
