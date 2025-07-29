@@ -1,6 +1,5 @@
 use std::collections::HashMap;
 
-use env_logger::Env;
 use log::{info, warn};
 use reqwest::StatusCode;
 use serde::{Deserialize, Serialize};
@@ -26,7 +25,6 @@ pub struct NotificaBody {
 
 impl Notifica {
     pub async fn send_message(body: NotificaBody, event: &str, tenant_id: Uuid) {
-        env_logger::init_from_env(Env::default().default_filter_or("info"));
         info!("[NOTIFICA-SDK] Tenant '{tenant_id}' event '{event}'");
         let client = reqwest::Client::new();
         let response: reqwest::Response = client
