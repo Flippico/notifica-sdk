@@ -1,0 +1,10 @@
+/Users/arashkevich/projects/flippico/notifica-sdk/target/debug/deps/env_filter-a407ff5ab2048457.d: /Users/arashkevich/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/env_filter-0.1.3/src/lib.rs /Users/arashkevich/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/env_filter-0.1.3/src/directive.rs /Users/arashkevich/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/env_filter-0.1.3/src/filter.rs /Users/arashkevich/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/env_filter-0.1.3/src/filtered_log.rs /Users/arashkevich/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/env_filter-0.1.3/src/op.rs /Users/arashkevich/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/env_filter-0.1.3/src/parser.rs
+
+/Users/arashkevich/projects/flippico/notifica-sdk/target/debug/deps/libenv_filter-a407ff5ab2048457.rmeta: /Users/arashkevich/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/env_filter-0.1.3/src/lib.rs /Users/arashkevich/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/env_filter-0.1.3/src/directive.rs /Users/arashkevich/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/env_filter-0.1.3/src/filter.rs /Users/arashkevich/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/env_filter-0.1.3/src/filtered_log.rs /Users/arashkevich/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/env_filter-0.1.3/src/op.rs /Users/arashkevich/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/env_filter-0.1.3/src/parser.rs
+
+/Users/arashkevich/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/env_filter-0.1.3/src/lib.rs:
+/Users/arashkevich/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/env_filter-0.1.3/src/directive.rs:
+/Users/arashkevich/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/env_filter-0.1.3/src/filter.rs:
+/Users/arashkevich/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/env_filter-0.1.3/src/filtered_log.rs:
+/Users/arashkevich/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/env_filter-0.1.3/src/op.rs:
+/Users/arashkevich/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/env_filter-0.1.3/src/parser.rs:
