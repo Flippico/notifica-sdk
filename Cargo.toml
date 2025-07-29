@@ -2,6 +2,11 @@
 name = "notifica-sdk"
 version = "0.1.0"
 edition = "2024"
+homepage = "https://github.com/Flippico/notifica-sdk"
+description = "Notifica sdk"
+repository = "https://github.com/Flippico/notifica-sdk"
+license = "Apache-2.0"
+readme = "README.md"
 
 [dependencies]
 env_logger = "0.11.8"
