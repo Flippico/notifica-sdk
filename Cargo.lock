@@ -610,10 +610,21 @@ dependencies = [
 ]
 
 [[package]]
+name = "notifica-common"
+version = "0.1.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "3534aff78d6833a07455c095e22d9fee62f5e201b4929da025c96edf70745833"
+dependencies = [
+ "serde",
+ "serde_json",
+]
+
+[[package]]
 name = "notifica-sdk"
-version = "0.1.2"
+version = "0.1.3"
 dependencies = [
  "log",
+ "notifica-common",
  "reqwest",
  "serde",
  "serde_json",
