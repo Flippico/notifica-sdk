@@ -10,7 +10,7 @@ readme = "README.md"
 
 [dependencies]
 log = "0.4.27"
-notifica-common = "0.1.0"
+notifica-common = "0.3.0"
 reqwest = { version = "0.12.22", features = ['default-tls', 'json'] }
 serde = { version = "1.0.219", features = ["derive"] }
 serde_json = "1.0.141"

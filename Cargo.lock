@@ -611,9 +611,9 @@ dependencies = [
 
 [[package]]
 name = "notifica-common"
-version = "0.1.0"
+version = "0.3.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "3534aff78d6833a07455c095e22d9fee62f5e201b4929da025c96edf70745833"
+checksum = "62da710423a921d268761d9638c3dbfcc0618e0a1ff8ac0f0265040fc78ff078"
 dependencies = [
  "serde",
  "serde_json",
